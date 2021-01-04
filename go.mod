@@ -6,14 +6,14 @@ require (
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/hashicorp/go-multierror v1.0.0
-	github.com/onsi/ginkgo v1.11.0
-	github.com/onsi/gomega v1.7.0
+	github.com/onsi/ginkgo v1.12.1
+	github.com/onsi/gomega v1.10.4
 	github.com/prometheus/client_golang v1.0.0
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.18.3
 	k8s.io/apimachinery v0.18.3
 	k8s.io/apiserver v0.18.3
